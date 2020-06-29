@@ -21,6 +21,12 @@ MlOPs, DS, CSA, and others
 Individuals must bring their own subscription.
 
 
+
+## Labs 
+
+The labs are available on the following link [GitHub](https://github.com/mufajjul/aml-govsec2020-workshop/labs)
+
+
 ##  Agenda:
 
 9:00 - 9:05 - Introduction (Muffajul Ali)
