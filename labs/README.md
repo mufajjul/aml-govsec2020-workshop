@@ -1,12 +1,18 @@
-# Azure Machine Learning Labs
+# Azure Machine Learning Security and Governance Labs
 
-This template creates an Azure Machine Learning service workspace.
+In this workshop you will complete the following labs.
 
-Lab 1: machine learning create workspace [Lab1](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab1)
+
+## Lab 1: machine learning create workspace [Lab1](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab1)
  
-Lab 2: machine learning create computeinstance [Lab2](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab2)
+## Lab 2: machine learning create computeinstance [Lab2](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab2)
 
-Lab 3: machine learning create compute cluster [Lab3](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab3) 
+## Lab 3: machine learning create compute cluster [Lab3](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab3) 
+
+## Lab 4: machine learning create Custom RBAC [Lab3](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab4) 
+
+
+-----
 
 
 If you are new to Azure Machine Learning, see:
