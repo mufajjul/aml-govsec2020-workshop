@@ -24,7 +24,7 @@ Individuals must bring their own subscription.
 
 ## Labs 
 
-The labs are available on the following link [GitHub](https://github.com/mufajjul/aml-govsec2020-workshop/labs)
+The labs are available on the following link [Labs](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs)
 
 
 ##  Agenda:
