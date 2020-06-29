@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "workspaceName": {
+      "value": "amlsec2020workspacesec"
+    },
+    "adminUserName": {
+      "value": "amlsec2020admin"
+    },
+    "adminUserPassword": {
+      "value": "amlsec2020password1!"
+    },
+    "clusterName": {
+      "value": "amlseccluster"
+    }
+  }
+}

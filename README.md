@@ -1,5 +1,8 @@
 # aml-govsec2020-workshop
 
+
+![alt text](img/img1.png)
+
 ## Overview
 
 Access control is a fundamental building block for enterprise customers, where protecting assets at various level is imperative to ensure that only the relevant people with certain position of authority are given the relevant access with different privileges. This is more so prevalent in machine learning, where data is absolutely essential in building ML models, and companies are highly cautious about the how the data is accessed and managed, especially with the introduction of GDPR.  We are seeing increasing number of customers seeking for explicit control of not only the data, but various stages of machine learning lifecycle, starting from experimentation to operationalization. Assets such as generated models, cluster creation and model deployment require to be governed to ensure that controls are in line with the company’s policy
