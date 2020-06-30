@@ -1,5 +1,5 @@
 {
-  "Name": "Data Scientist Custom",
+  "Name": "govsec2020dscustrole",
   "Description": "Can create experiments, submit runs, deploy models to test environments; Cannot create compute",
   "Actions": [
     "Microsoft.MachineLearningServices/workspaces/*/read",
@@ -19,6 +19,6 @@
     "Microsoft.MachineLearningServices/workspaces/endpoints/pipelines/write"
   ],
   "AssignableScopes": [
-    "/subscriptions/8f338f6e-4fce-44ae-969c-fc7d8fda030e", "/subscriptions/d511f82f-71ba-49a4-8233-d7be8a3650f4/resourceGroups/WorkspaceVNetTesting" 
+    "/subscriptions/0d27f570-c739-4d79-b6fd-2f04ad265ab2/resourceGroups/amlsecworkshoprs"
 ]
 }

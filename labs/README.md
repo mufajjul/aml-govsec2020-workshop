@@ -11,7 +11,6 @@ In this workshop you will complete the following labs.
 
 ## Lab 4: machine learning create Custom RBAC [Lab4](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab4) 
 
-
 -----
 
 
