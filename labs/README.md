@@ -1,15 +1,15 @@
 # Azure Machine Learning Security and Governance Labs
 
-In this workshop you will complete the following labs.
+In this workshop you will complete the following labs. Please note, you will need a Azure subscription to run these labs.
 
 
-## Lab 1: machine learning create workspace [Lab1](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab1)
+## Lab 1: Machine learning create workspace ([Click here](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab1))
  
-## Lab 2: machine learning create computeinstance [Lab2](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab2)
+## Lab 2: Machine learning create computeinstance ([Click here](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab2))
 
-## Lab 3: machine learning create compute cluster [Lab3](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab3) 
+## Lab 3: Machine learning create compute cluster ([Click here](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab3)) 
 
-## Lab 4: machine learning create Custom RBAC [Lab4](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab4) 
+## Lab 4: Machine learning create Custom RBAC ([Click here](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/labs/lab4))
 
 -----
 

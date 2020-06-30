@@ -1,7 +1,7 @@
 # aml-govsec2020-workshop
 
 
-![alt text](img/img1.png)
+![alt text](img/img2.png)
 
 ## Overview
 
@@ -32,35 +32,24 @@ The labs are available on the following link [Labs](https://github.com/mufajjul/
 The slides are available on the following link [Slides](https://github.com/mufajjul/aml-govsec2020-workshop/tree/master/slides)
 
 
+
+
 ##  Agenda:
 -----------
 
-9:00 - 9:05 - Introduction (Mufajjul Ali)
+![alt text](img/agenda-morning.png)
 
-9:05 - 10:00 - Overview of Azure ML and Security / Governance (Fatos Ismali / Joe Plumb)
+----
 
-10:00 – 10:45 – Azure Networking (Wasim Ahmad)
+![alt text](img/agenda-afternoon.png)
 
-10:45 – 11:00 – Break
-
-11:00-12:00 – Data ingestion ( Encryption at Rest/Transit, Key Vault management) & Explainability / Interpretability (Robin Lester)
-
-12:00 - 12:10 - Hands-on deployment of secure AML platform (Robin Lester)
-
-12:10 - 13:10 – Lunch break
-
-13:10 – 14:10 MLOps, RBAC roles, environments, and implementation (Mufajjul Ali/Alan Weaver)
-
-14:10 – 14:40 Inference security/monitoring (AKS endpoints, https, key, token, etc.) (Ben Coleman / Fatos Ismali)
-
-14:40 - 14:50 - Coffee Break
-
-14:50 – 16:00 Model Governance (Ethical AI, Fair learn, Data drift) (Alessandro Recino/Alan Weaver)
-
-16:00 – 16:30 Azure ML - Product Group session (FAQ and features)
-
-16:30 – Summary and Close
-
+## Team Live
 Link to the Teams Live (virtual) event - the session will be available on the date and time stated in this meetup;
 https://aka.ms/AMLEnterpriseReadinessWorkshop
+
+----
+
+# Feedback 
+
+**Please provide feedback by visiting this link: [click here ](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRy65IxdWegNLmkUZoFUsoatUMko0SjZKSjFMNjFIUzQ0Q0RENTkzWlFDNS4u)**
 
