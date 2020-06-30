@@ -1,0 +1,3 @@
+2020.06.30 08:58:11 INFO  started: Metals version 0.9.0 in workspace '/Users/mufy/development/microsoft/python/aml-govsec2020-workshop'
+2020.06.30 08:58:12 INFO  time: initialize in 1.5s
+2020.06.30 08:58:14 WARN  no build tool detected in workspace '/Users/mufy/development/microsoft/python/aml-govsec2020-workshop'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 

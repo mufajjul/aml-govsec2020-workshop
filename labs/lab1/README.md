@@ -60,6 +60,12 @@ You can use [PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-m
 
 For Azure CLI I'm using the Visual Code with Azure CLI extensions. If you would like you can find more information [here](https://code.visualstudio.com/docs/azure/extensions). But bare in mind that you don't need to use the Visual Code app, you can stick with the always present **Command Line** on Windows or the Linux **bash terminal**.
 
+You can also download the CLI by clicking here: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&tabs=azure-cli
+
+You may need to add the AML Cli extension: 
+#### az extension add -n azure-cli-ml
+
+
 ### Using Azure CLI with Visual Code
 
 In the terminal window type: **az login**
