@@ -19,6 +19,6 @@
     "Microsoft.MachineLearningServices/workspaces/endpoints/pipelines/write"
   ],
   "AssignableScopes": [
-    "/subscriptions/resourceGroups/amlsecworkshoprs"
+    "/subscriptions/<your subscription id> /resourceGroups/amlsecworkshoprs"
 ]
 }

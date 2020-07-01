@@ -1,4 +1,4 @@
-# Create an Azure Machine Learning Compute Cluster
+# Create an Azure Machine Learning 
 
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-machine-learning-compute-create-amlcompute%2Fazuredeploy.json)
